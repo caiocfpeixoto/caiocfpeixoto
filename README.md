@@ -1,4 +1,5 @@
 ### Opa tudo bem? Eu sou Caio Cesar e estudo ciências da computação!
+
 <div>
   <a href="https://github.com/caiocfpeixoto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocfpeixoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
