@@ -1,4 +1,4 @@
-### Opa tudo bem? Eu sou Caio Cesar e estudo ciências da computação!
+### Opa tudo bem? Eu sou Caio Cesar e estudo ciências da computação no IFCE!
 
 <div>
   <a href="https://github.com/caiocfpeixoto">
